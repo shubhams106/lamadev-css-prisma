@@ -31,20 +31,19 @@ a {
 .wrapper {
   max-width: 1536px;
   margin: 0 auto;
-  background-color: red;
   padding: 0 80px;
 }
 
 @media screen and (max-width: 1536px) {
   .wrapper {
-    padding: 0 60px;
+    /* padding: 0 60px; */
     max-width: 1366px;
   }
 }
 
 @media screen and (max-width: 1280px) {
   .wrapper {
-    padding: 0 50px;
+    /* padding: 0 50px; */
     max-width: 1024px;
   }
 }
@@ -58,14 +57,13 @@ a {
 
 @media screen and (max-width: 768px) {
   .wrapper {
-    padding: 0 30px;
+    /* padding: 0 30px; */
     max-width: 640px;
   }
 }
 
 @media screen and (max-width: 640px) {
   .wrapper {
-    padding: 0 20px;
     max-width: 475px;
   }
 }
