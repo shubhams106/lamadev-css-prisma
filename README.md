@@ -5,6 +5,10 @@ https://www.youtube.com/watch?v=DpYE5zPDRVQ&t=35s
 lamadev 4:05:52
 4sept 23
 
+what i learnt:)
+
+simpled css using var(--variable to use) --bg: white;
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
